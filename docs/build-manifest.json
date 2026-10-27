@@ -1,0 +1,38 @@
+{
+  "version": "0.1.2",
+  "platform": "win32-x64",
+  "generatedAt": "2026-10-25T16:25:16.509Z",
+  "gameBuild": "CN12.1.5.70575",
+  "addonInterface": 120105,
+  "automatedTests": 52,
+  "packagedStartupExitCode": 0,
+  "realGameVerified": false,
+  "readOnlyImportedBalanceVerification": {
+    "rolesChecked": 2,
+    "previouslyWrongSelections": 2
+  },
+  "bonusRollAttribution": "manual-confirmation",
+  "bonusRollCurrency": "currency:3513",
+  "vaultGoal": {
+    "unlockedSlots": 3,
+    "activities": "any-combined"
+  },
+  "raidSelection": "client-current-season",
+  "artifacts": [
+    {
+      "file": "release/艾泽拉斯周计划 Setup 0.1.2.exe",
+      "bytes": 122026614,
+      "sha256": "a4312037e74bfa9381fa897a92942cf2fcb1e594a87d21fecd909e6b6782ab66"
+    },
+    {
+      "file": "release/艾泽拉斯周计划-免安装.zip",
+      "bytes": 164006270,
+      "sha256": "0010c9e20569b874bc026e5f66caac51b0c9fef67192a35b9ae6fa8de2f797d6"
+    },
+    {
+      "file": "dist/addon/AzerothWeekly.zip",
+      "bytes": 8680,
+      "sha256": "2377e5b007289d4af760de5265d8589349675336658eaf0e34dd97d22ce817c7"
+    }
+  ]
+}

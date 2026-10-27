@@ -1,0 +1,12 @@
+node_modules/
+dist/
+release/
+coverage/
+.superpowers/sdd/
+.cache/
+*.db
+*.db-shm
+*.db-wal
+*.log
+.env
+artifacts/screenshots/

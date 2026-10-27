@@ -1,0 +1,12 @@
+## Interface: 120105
+## Title: Azeroth Weekly
+## Notes: Read-only weekly progress capture with explicit unknowns and diagnostic evidence.
+## Author: Azeroth Weekly
+## Version: 0.1.2
+## SavedVariables: AzerothWeeklyDB
+
+Core.lua
+Capture.lua
+Encounters.lua
+Currency.lua
+Diagnostics.lua
